@@ -1,6 +1,6 @@
 ﻿namespace VictorKrogh.NET.Extensions.Runtime;
 
-public class Throw
+public static class Throw
 {
     /// <summary>
     /// Throws an exception if <paramref name="obj"/> is null.

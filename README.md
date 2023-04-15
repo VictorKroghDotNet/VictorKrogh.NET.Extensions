@@ -1,5 +1,5 @@
-# VictorKrogh.NET.Data
+# VictorKrogh.NET.Extensions
 
-[![GitHub release](https://img.shields.io/github/release/VictorKroghDotNet/VictorKrogh.NET.Data.svg)](https://github.com/VictorKroghDotNet/VictorKrogh.NET.Data/releases)
-[![Build Status](https://github.com/VictorKroghDotNet/VictorKrogh.NET.Data/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/VictorKroghDotNet/VictorKrogh.NET.Data/actions/workflows/CI.yml)
-[![NuGet version (VictorKrogh.NET.Data)](https://img.shields.io/nuget/v/VictorKrogh.NET.Data.svg?style=flat-square)](https://www.nuget.org/packages/VictorKrogh.NET.Data/)
+[![GitHub release](https://img.shields.io/github/release/VictorKroghDotNet/VictorKrogh.NET.Extensions.svg)](https://github.com/VictorKroghDotNet/VictorKrogh.NET.Extensions/releases)
+[![Build Status](https://github.com/VictorKroghDotNet/VictorKrogh.NET.Extensions/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/VictorKroghDotNet/VictorKrogh.NET.Extensions/actions/workflows/CI.yml)
+[![NuGet version (VictorKrogh.NET.Extensions)](https://img.shields.io/nuget/v/VictorKrogh.NET.Extensions.svg?style=flat-square)](https://www.nuget.org/packages/VictorKrogh.NET.Extensions/)

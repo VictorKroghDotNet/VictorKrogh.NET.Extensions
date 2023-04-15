@@ -15,4 +15,23 @@ public static class Throw
             throw new ArgumentNullException(name);
         }
     }
+
+    /// <summary>
+    /// Throws an exception if <paramref name="obj"/> is null or only contains whitespaces.
+    /// </summary>
+    /// <param name="value"></param>
+    /// <param name="name"></param>
+    /// <exception cref="ArgumentNullException"></exception>
+    public static void IfNullOrWhitespace(string? value, string name)
+    {
+        if (value == null)
+        {
+            throw new ArgumentNullException(name);
+        }
+
+        if (string.IsNullOrWhiteSpace(value))
+        {
+            throw new ArgumentNullException(name);
+        }
+    }
 }
